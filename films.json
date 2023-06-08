@@ -1,0 +1,94 @@
+{
+    "films":[
+        {
+            "image": "leluch.jpg",
+            "film_name": "Код Гиас: Восставший Лелуш R2",
+            "year": 2008,
+            "genre": "драма",
+            "emotions": "поплакать",
+            "suitable_for_group": "Нет",
+            "id": 1
+        },
+        {
+            "image": "the_Shawshank_Redemption.jpg",
+            "film_name": "Побег из Шоушенка",
+            "year": 1994,
+            "genre": "драма",
+            "emotions": "задуматься",
+            "suitable_for_group": "Да",
+            "id": 2
+        },
+        {
+            "image": "attack_of_the_Titans.jpg",
+            "film_name": "Атака титанов: Выбор без сожалений",
+            "year": 2014,
+            "genre": "фантастика",
+            "emotions": "восхищение",
+            "suitable_for_group": "Да",
+            "id": 3
+        },
+        {
+            "image": "the_Dark_Knight.jpg",
+            "film_name": "Темный рыцарь",
+            "year": 2008,
+            "genre": "фантастика",
+            "emotions": "восхищение",
+            "suitable_for_group": "Да",
+            "id": 4
+        },
+        {
+            "image": "in-Shadow.jpg",
+            "film_name": "In-Shadow: A Modern Odyssey",
+            "year": 2017,
+            "genre": "ужасы",
+            "emotions": "попугаться",
+            "suitable_for_group": "Нет",
+            "id": 5
+        },
+        {
+            "image": "the_Silence_of_the_Lambs.jpg",
+            "film_name": "Молчание ягнят",
+            "year": 1990,
+            "genre": "ужасы",
+            "emotions": "попугаться",
+            "suitable_for_group": "Нет",
+            "id": 6
+        },
+        {
+            "image": "seventeen_Moments_of_Spring.jpg",
+            "film_name": "Семнадцать мгновений весны",
+            "year": 1973,
+            "genre": "история",
+            "emotions": "сопереживание",
+            "suitable_for_group": "Нет",
+            "id": 7
+        },
+        {
+            "image": "forrest_Gump.jpg",
+            "film_name": "Форрест Гамп",
+            "year": 1994,
+            "genre": "история",
+            "emotions": "сопереживание",
+            "suitable_for_group": "Да",
+            "id": 8
+        },
+        {
+            "image": "the_Green_Mile.jpg",
+            "film_name": "Зеленая миля",
+            "year": 1999,
+            "genre": "криминал",
+            "emotions": "поплакать",
+            "suitable_for_group": "Нет",
+            "id": 9
+        },
+        {
+            "image": "meeting_place_can_not_be_Changed.jpg",
+            "film_name": "Место встречи изменить нельзя",
+            "year": 1979,
+            "genre": "криминал",
+            "emotions": "задуматься",
+            "suitable_for_group": "Да",
+            "id": 10
+        }
+    ]
+}
